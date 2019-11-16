@@ -1,0 +1,33 @@
+Week 6 JOURNAL 
+
+Date
+-	21-10-2019
+
+Tasks
+-	Finding out the component I am going to use for Robotic lawn mower
+-	Going to the technician to order the parts 
+-	Making sure it is the right component 
+
+Reflection
+-	I did manage to find some ideas for the mower uphill movement 
+-	I think the lawn mower should be cheaper and cost effective 
+-	Getting a v shape tire create more traction for the mower to go uphill
+-	Making the lawn mower a four wheel drive will give the mower more grip and control
+  
+Issues:
+
+Hardware:
+1.	I am finding it difficult to figure out how to make the mower 4 wheel drive 
+2.	Finding resources online on the parts required for the lawn mower to run on python 
+3.	content MUST be informative, and contain substance. Information like “chassis does not work” does not provide any useful information. Instead, information content will be something like: “Chassis lacks of bracing… too much friction on the axles so the chassis is sacking in the middle…”
+
+Software:
+
+Solutions
+
+Hardware:
+-	Getting a v shape tire create more traction for the mower to go uphill
+-	Making the lawn mower a four-wheel drive will give the mower more grip and control
+
+Software:
+-	Use Arduino as the brain of the lawn mower 
