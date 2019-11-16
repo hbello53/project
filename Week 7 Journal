@@ -1,0 +1,33 @@
+
+Week 7 JOURNAL 
+
+Date
+-	21-10-2019
+
+Tasks
+-	Research more about the part needed for the robotic lawn mower
+-	Order the Arduino mega 2560
+-	Making sure it is the right component 
+
+Reflection
+-	I finally ordered the Arduino mega and waiting arrival
+-	I know I that I need 2 gear motors and H Bridge motor to drive the wheels
+-	I realized the robotic lawn mower cannot run on Arduino UNO because I need to access more pins and more power
+
+Issues:
+
+Hardware:
+1.	There are not enough resources online for inspiration for the lawn mower project
+2.	The part that I sent to the technicians were not in stock 
+3.	I underestimated the time for product to arrive 
+
+Software:
+
+Solutions
+
+Hardware:
+-	I have make sure they are in stock new time
+-	Start the project from an autonomous RC car and feature as times go on
+
+Software:
+-	Use Arduino Mega 2560 as the brain of the lawn mower 
