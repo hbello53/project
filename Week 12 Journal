@@ -1,0 +1,30 @@
+ENGINEERING JOURNAL – week 12
+
+Date
+-	21-11-2019
+
+Tasks
+-	measure the voltage from the 2 motor 
+-	make sure it is outputing the correct voltage 
+-	display the the result to the serial monitor on the arduino
+
+Reflection
+- the hbridge ran successfully 
+-	i find it a difficult to display the 2 voltage on the serial monitor 
+- the hbridge ran successfully on the Arduino UNO and MEGA
+Issues:
+
+Hardware:
+1.	i find it a difficult to display the 2 voltage on the serial monitor
+
+
+Software:
+
+Solutions
+
+Hardware:
+-	Learn the basic of how the lawn mower moves from left to right 
+-	Understand how the use the IBT_2 HBridge driver
+
+Software:
+-	Use Arduino MEGA as the brain of the lawn mower 
